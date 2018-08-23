@@ -1,0 +1,24 @@
+{
+  "name": "@iheidari/base-component",
+  "version": "1.1.0",
+  "description": "a react component library for basic tags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iheidari/base-components.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "base"
+  ],
+  "author": "Iman Heidari",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/iheidari/base-components/issues"
+  },
+  "homepage": "https://github.com/iheidari/base-components#readme"
+}
