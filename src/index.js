@@ -1,3 +1,4 @@
 import Add from "./Add";
+import Sub from "./Sub";
 
-export default { Add };
+export { Add, Sub };

@@ -4,7 +4,8 @@
   "description": "a react component library for basic tags",
   "main": "lib/index.js",
   "scripts": {
-    "prepublish": "babel src --preset env --out-dir lib & npm version minor",
+    "compile": "babel src --preset env --out-dir lib",
+    "prepublish": "npm run compile & npm version minor",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
