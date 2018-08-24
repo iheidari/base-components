@@ -1,2 +1,2 @@
-let Sub;
-export default Sub = (a, b) => a - b;
+let Sub = (a, b) => a - b;
+export default Sub
