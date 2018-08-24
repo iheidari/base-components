@@ -1,6 +1,6 @@
 {
   "name": "@iheidari/base-component",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "a react component library for basic tags",
   "main": "src/index.js",
   "scripts": {
