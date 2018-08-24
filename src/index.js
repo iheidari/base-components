@@ -1,3 +1,3 @@
-const Add = (a, b) => a + b;
+import Add from "./Add";
 
-export default Add;
+export { Add };
